@@ -10,4 +10,5 @@
 }
 .player{
     display: flex;
+    align-items: center;
 }
